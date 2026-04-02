@@ -1,2 +1,2 @@
 # hello-world
-我的第一个GitHub仓库
+这是我的第一个GitHub仓库，学习版本控制的基础操作。
